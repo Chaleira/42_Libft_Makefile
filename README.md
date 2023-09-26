@@ -1,5 +1,5 @@
 # Libft_Makefile
-Libft, Makefile, Includes and Srcs folder already coded and ready for you to start your new project!
+Libft, Makefile, Includes and Srcs folder already coded and ready for you to start your new project at 42!
 
 1. In the includes you just need to change the name of the include.h file to your project name and the
 
